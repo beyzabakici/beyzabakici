@@ -1,4 +1,4 @@
-# Hi there, I'm Melike Beyza <img align="right" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" alt="Programmation" width="200" />
+# 🦄 Hi there, I'm Melike Beyza <img align="right" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" alt="Programmation" width="200" />
 I will be graduated from department of Computer Engineering (Selcuk University / 2021) 
 I'm trying to enhance myself at the software through ReactJS in front-end and at cross platform in mobile. 
 I'm getting excited by Javascript’s developing world day by day. 
